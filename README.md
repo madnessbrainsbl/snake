@@ -29,8 +29,9 @@ Install Pygame using pip:
 
 ```bash
 pip install pygame
+```bash
 
-##How to Run
+## How to Run
 Ensure Python and Pygame are installed on your system.
 
 Save the game code in a file, e.g., snake_game.py.
@@ -39,9 +40,11 @@ Run the game using Python:
 
 
 
-bash
+```bash
 
 python snake_game.py
+
+```bash
 
 ## Controls
 Arrow Keys: Move the snake up, down, left, or right
