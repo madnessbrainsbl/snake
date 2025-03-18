@@ -30,7 +30,7 @@ Install Pygame using pip:
 ```bash
 pip install pygame
 
-How to Run
+##How to Run
 Ensure Python and Pygame are installed on your system.
 
 Save the game code in a file, e.g., snake_game.py.
@@ -43,14 +43,14 @@ bash
 
 python snake_game.py
 
-Controls
+## Controls
 Arrow Keys: Move the snake up, down, left, or right
 
 R: Restart the game after "Game Over"
 
 
 
-Gameplay
+## Gameplay
 The snake starts with a length of 3 segments and moves automatically.
 
 Eat the red circular food to grow longer and increase your score.
