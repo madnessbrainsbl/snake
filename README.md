@@ -27,9 +27,8 @@ In this game, you control a snake that moves around a grid, eating food to grow 
 
 Install Pygame using pip:
 
-```bash
 pip install pygame
-```bash
+
 
 ## How to Run
 Ensure Python and Pygame are installed on your system.
@@ -40,11 +39,9 @@ Run the game using Python:
 
 
 
-```bash
-
 python snake_game.py
 
-```bash
+
 
 ## Controls
 Arrow Keys: Move the snake up, down, left, or right
