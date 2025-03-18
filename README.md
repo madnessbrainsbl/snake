@@ -32,7 +32,6 @@ Install Pygame using pip:
 pip install pygame
 
 ```
-bash
 
 ## How to Run
 Ensure Python and Pygame are installed on your system.
