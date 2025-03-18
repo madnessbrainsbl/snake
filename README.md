@@ -37,6 +37,8 @@ Save the game code in a file, e.g., snake_game.py.
 
 Run the game using Python:
 
+
+
 bash
 
 python snake_game.py
@@ -45,6 +47,8 @@ Controls
 Arrow Keys: Move the snake up, down, left, or right
 
 R: Restart the game after "Game Over"
+
+
 
 Gameplay
 The snake starts with a length of 3 segments and moves automatically.
@@ -56,4 +60,6 @@ Avoid hitting the walls or the snake's own body to keep playing.
 When the game ends, press 'R' to start over.
 
 Enjoy the game!
+
+
 
