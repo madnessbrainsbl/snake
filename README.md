@@ -27,10 +27,11 @@ In this game, you control a snake that moves around a grid, eating food to grow 
 
 Install Pygame using pip:
 
-bash
+```bash
 
 pip install pygame
 
+```bash
 
 ## How to Run
 Ensure Python and Pygame are installed on your system.
@@ -40,8 +41,7 @@ Save the game code in a file, e.g., snake_game.py.
 Run the game using Python:
 
 
-bash
-
+```bash
 
 python snake.py
 
